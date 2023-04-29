@@ -4,9 +4,6 @@
 
 ## Sources, License & Acknowledgements
 
-- *Let's build a video card!*, Ben Eater, 2019, [eater.net/vga](https://eater.net/vga)
-- TinyTapeout design guides, [tinytapeout.com](https://tinytapeout.com)
-
 Made with ❤️, lots of ☕️, and lack of 🛌
 
 Published under CreativeCommons BY-SA 4.0
