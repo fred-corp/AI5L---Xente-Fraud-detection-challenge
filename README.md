@@ -1,6 +1,30 @@
 # AI5L - Xente Fraud detection challenge
 
-> Project done for the Artificial intelligence course at the ECAM Brussels engineering school
+> Project done for the Artificial intelligence course at the ECAM Brussels engineering school.
+> See [here](https://kenn7.github.io/ml/) for more details.
+
+## Table of Contents
+
+TODO
+
+## How to run
+
+TODO
+
+## Principle
+
+TODO
+
+- [ ] Explain the principle of the project
+- [ ] block diagrams
+- [ ] explain why I chose the pipeline I chose (random forest, etc.)
+- [ ] explain the different steps
+
+## Results
+
+TODO
+
+- [ ] Explain the results
 
 ## Sources, License & Acknowledgements
 
